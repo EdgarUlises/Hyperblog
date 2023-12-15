@@ -1,6 +1,8 @@
 Esta Historia  es para aprender hacer un rebase
 
-Creamos rama experimento 1
+Creamos rama Experimento
+experimento 1
+experimento 2
 
 Se creara un Master 1
 
